@@ -4,8 +4,8 @@ body {
 }
 
 .container {
-    width: 300px;
-    margin: 20px auto;
+    width: 400px;
+    margin: 30px auto;
     background: white;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -52,7 +52,7 @@ button {
     background-color: red;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 6px;
     padding: 10px;
     cursor: pointer;
     width: 48%;
